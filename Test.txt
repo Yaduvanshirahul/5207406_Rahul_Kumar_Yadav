@@ -1,0 +1,1 @@
+Today we learn about git and its basic commond.

@@ -8,4 +8,6 @@ Completion Proof
 Week 3 - C basic Certificate
 Completion Proof
 ![image alt](https://github.com/Yaduvanshirahul/5207406_Rahul_Kumar_Yadav/blob/de7f11d93c116e8eaa7af245ffcf3a9cca2e9d78/C%20language/C%20basic%20Certificate.jpeg)
+C Intermediate Certificate
+![image alt](https://github.com/Yaduvanshirahul/5207406_Rahul_Kumar_Yadav/blob/02c855d0b94bf4e224d914ea6bde43e8c091f123/C%20language/C%20intermediate.jpg)
 

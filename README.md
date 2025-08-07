@@ -5,3 +5,7 @@ Completion Proof
 Week 2- GIT Training
 Completion Proof
 ![image alt](https://github.com/Yaduvanshirahul/5207406_Rahul_Kumar_Yadav/blob/5bcf400acb1cd02cb008180c77015b22216ab47a/Git%20Folder/Git_certificate.png)
+Week 3 - C basic Certificate
+Completion Proof
+![image alt](https://github.com/Yaduvanshirahul/5207406_Rahul_Kumar_Yadav/blob/de7f11d93c116e8eaa7af245ffcf3a9cca2e9d78/C%20language/C%20basic%20Certificate.jpeg)
+
